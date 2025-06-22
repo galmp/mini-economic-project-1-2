@@ -1,13 +1,12 @@
 # 📊 Mini Economic Project 1: CPI Data Analysis with Python
 
-Αυτό το mini project αποτελεί μια εισαγωγή στην ανάλυση οικονομικών δεδομένων με τη χρήση της γλώσσας προγραμματισμού Python. Αναλύω δεδομένα του Δείκτη Τιμών Καταναλωτή (CPI) και οπτικοποιώ τις τάσεις μέσα στον χρόνο.
-
+This mini project serves as an introduction to economic data analysis using the Python programming language. I analyze Consumer Price Index (CPI) data and visualize trends over time.
 ---
 
-## 🧠 Τι μαθαίνω από αυτό το project;
+## 🧠 What do I learn from this project?
 
-- Πώς να διαβάζω οικονομικά δεδομένα από αρχείο CSV με `pandas`
-- Πώς να επεξεργάζομαι χρονοσειρές
-- Πώς να οπτικοποιώ την εξέλιξη των τιμών με `matplotlib`
-- Πώς να οργανώνω σωστά έναν φάκελο project σε Python
-- Πώς να παρουσιάζω τη δουλειά μου σε GitHub
+- How to read economic data from a CSV file using pandas
+- How to process time series data effectively
+- How to visualize price trends over time using matplotlib
+- How to structure a Python project folder properly
+- How to present my work professionally on GitHub
